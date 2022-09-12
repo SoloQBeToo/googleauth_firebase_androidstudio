@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AuthGoogle</string>
+    <string name="txtTitle">Usuário Logado no Google!</string>
+    <string name="logar">Fazer Login com o Google</string>
+    <string name="desconectar">Desconectar do Google</string>
+</resources>
